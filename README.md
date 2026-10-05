@@ -103,6 +103,10 @@ Power BI was used to create an interactive dashboard containing:
 - Subscription Rate by Job Category
 - Subscription Status slicer
 
+## Power BI Dashboard
+
+![Banking Campaign Analytics Dashboard](banking-dashboard.png)
+
 ## Key Findings
 
 ### Overall Subscription Performance
